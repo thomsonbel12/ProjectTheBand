@@ -1,0 +1,8 @@
+Dành cho bạn nào dùng Windows như mình
+Tổ hợp phím trong VS code:
+1. Tại file HTML:
+- Để chọn nhiều id cùng 1 lúc thì ta click chọn id=" kèm Ctrl + D
+- Rồi bấm nút mũi tên sang phải, tiếp đó bấm tổ hợp phím Alt + Shift + mũi tên sang phải. Sau đó bấm Ctrl C để copy
+2. Tại file CSS:
+- Bấm Ctrl V để paste vào, sau đó bấm chọn đầu mỗi dòng id kèm nút Alt + Shift và nhập ký tự # vào.
+- Sau đó bấm Alt + Shift + mũi tên sang phải, rồi nhập {} và cùng nhấn enter xuống dòng.
