@@ -195,6 +195,7 @@ html {
 
 #slider .text-description {
     padding: 15px 0;
+    text-shadow: 0 0 1px #000;
 }
 
 /* #content{
